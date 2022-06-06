@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Grand Theft Auto V",
+        "rating": 4.48,
+        "released": "2013-09-17",
+        "updated": "2020-09-23",
+        "background_image": "https://cdn.forbes.com.mx/2020/05/Grand-Theft-Auto-V-640x360.jpg"
+    },
+    {
+        "name": "Portal 2",
+        "rating": 4.62,
+        "released": "2011-04-18",
+        "updated": "2020-08-03",
+        "background_image": "https://pivigames.blog/wp-content/uploads/2018/07/portal-2-mac-2844-0-min.jpg"
+    },
+    {
+        "name": "Crash Bandicoot 4",
+        "rating": 4.85,
+        "released": "2011-12-17",
+        "updated": "2020-10-24",
+        "background_image": "https://images6.alphacoders.com/108/1083054.png"
+      },
+      {
+        "name": "Mortal Kombat 11",
+        "rating": 4.65,
+        "released": "2018-04-17",
+        "updated": "2020-09-23",
+        "background_image": "https://wallpapercave.com/wp/wp4889139.jpg"
+      },
+      {"name": "FreeFire",
+        "rating": 4.05,
+        "released": "2018-10-17",
+        "updated": "2020-10-24",
+        "background_image": "https://tierragamer.com/wp-content/uploads/2020/03/garena-free-fire-768x432.jpg"
+      },
+      {
+        "name": "Tony Howk's Pro Skater 1+2",
+        "rating": 5.00,
+        "released": "2019-11-15",
+        "updated": "2020-09-23",
+        "background_image": "https://wallpapercave.com/wp/wp6369579.jpg"
+      }
+]
